@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kailani and I'm from Portugal.
-- I’m currently learning Javascript, among other tools and languages, to become a Software Developer.
+- I’m currently learning Javascript, and I'm comfortable with HTML and CSS, and my goal is to become a Software Developer.
 - I'm working and studying hard to make a Career change and hopefully land a job as a Junior Full Stack Engineer
 
 <!---
